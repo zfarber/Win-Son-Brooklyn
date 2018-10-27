@@ -1,0 +1,21 @@
+.h1Font {
+  height: 75px;
+  width: 363px;
+  color: #000000;
+  font-family: "Cabin Sketch";
+  font-size: 64px;
+  font-weight: bold;
+  line-height: 75px;
+  text-align: center;
+}
+
+.pFont {
+  height: 124px;
+  width: 1040px;
+  color: #000000;
+  font-family: "Yanone Kaffeesatz";
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 31px;
+  text-align: center;
+}
