@@ -24,11 +24,22 @@
 }
 
 .instagram {
-    height: 93px;
-    width: 102px;
+  height: 93px;
+  width: 102px;
 }
 
 .facebook {
-    height: 96px;
-    width: 93px;
+  height: 96px;
+  width: 93px;
 }
+
+.copyWright {
+  text-align: center;
+  font-family: "Yanone Kaffeesatz";
+  font-size: 20px;
+}
+
+
+
+
+
