@@ -11,8 +11,10 @@
     "materialize": "^1.0.0",
     "morgan": "^1.9.1",
     "nodemon": "^1.18.5",
+    "google-maps-react": "^2.0.2",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
+    "react-router": "^4.3.1",
     "react-scripts": "2.0.5"
   },
   "scripts": {
