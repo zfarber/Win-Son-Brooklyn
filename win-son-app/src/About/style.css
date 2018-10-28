@@ -1,0 +1,54 @@
+#slider {
+  overflow: hidden;
+  display: flex;
+  width: 72.78%;
+  height: 695px;
+  margin: 0 auto;
+  transition: transform 2s ease, opacity .5s ease-out
+}
+
+.fusion-carousel .fusion-carousel-item img {
+  width: auto;
+  height: 146px;
+  max-height: 146px;
+  object-fit: contain;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 25px;
+  width: 25px;
+  border-radius: 50%;
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+.title {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 42px 22px;
+}
+
+.text {
+  height: 165px;
+  width: 1015px;
+  color: #000000;
+  font-family: "Yanone Kaffeesatz";
+  font-size: 32px;
+  font-weight: 300;
+  line-height: 31px;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  padding: 36px 6% 30px 6%;
+}
+
+.social-links {
+  margin: auto;
+  position:relative;
+  width: 50%;
+  height: 50%;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 10px;
+}
