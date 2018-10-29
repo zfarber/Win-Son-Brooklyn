@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import GoogleMap from '../GoogleMap';
 import "./style.css";
 
 class Contact extends Component {
@@ -18,6 +19,7 @@ class Contact extends Component {
         <p className="address">
           159 Graham Ave Brooklyn, NY
         </p>
+        <GoogleMap />
       </div>
     );
   }
