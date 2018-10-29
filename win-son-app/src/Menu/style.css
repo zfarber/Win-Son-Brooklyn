@@ -1,0 +1,11 @@
+.menuContainer {
+  padding-top: 80px;
+}
+
+.title {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 42px 22px;
+  margin-top: 40px;
+}

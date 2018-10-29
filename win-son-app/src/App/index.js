@@ -5,6 +5,7 @@ import Press from '../Press';
 import HeaderPhoto from '../HeaderPhoto';
 import Reservations from '../Reservations';
 import Nav from '../Nav';
+import Menu from '../Menu';
 import Contact from '../Contact';
 import Footer from '../Footer';
 import "./style.css";
@@ -16,6 +17,7 @@ class App extends Component {
         <Nav />
         <HeaderPhoto />
         <About />
+        <Menu />
         <br/>
         <Reservations />
         <Press />
