@@ -27,6 +27,7 @@
   margin-left: auto;
   margin-right: auto;
   padding: 42px 22px;
+  margin-top: 40px;
 }
 
 .text {
@@ -50,5 +51,4 @@
   height: 50%;
   display: flex;
   justify-content: center;
-  padding-bottom: 10px;
 }

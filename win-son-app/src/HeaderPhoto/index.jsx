@@ -57,7 +57,7 @@ class HeaderPhoto extends Component {
               <span className="sr-only">Next</span>
             </a>
           </div>
-          <a rel="hang" class="button hang"><img className='arrow' src="https://i.imgur.com/pSTTXkS.png" alt="" /></a>
+          <a href="#about"><img className='arrow' src="https://i.imgur.com/pSTTXkS.png" alt="" /></a>
         </div>
       </div>
     );

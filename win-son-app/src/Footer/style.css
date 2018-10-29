@@ -1,42 +1,61 @@
+
+footer {
+  border-top: solid black 3px;
+  padding: 5% 5%;
+  margin-top: 2%;
+}
+
+.socialIcons > a > img {
+  height: 70px;
+}
+
+.container {
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+  padding-bottom: 10px;
+}
+
+button {
+  width: 250px;
+  background-color: white;
+  color: #000000;
+  font-family: "Yanone Kaffeesatz";
+  font-size: 30px;
+  font-weight: 300;
+  line-height: 42px;
+  text-align: center;
+  margin-top: 10px;
+  border: solid black 2px;
+}
+
+
+
 .subscribeToUs {
-  height: 41px;
-  width: 328px;
   color: #000000;
   font-family: "Yanone Kaffeesatz";
   font-size: 36px;
   font-weight: 300;
   line-height: 42px;
-}
-
-.subscribe {
-  height: 33px;
-  width: 109px;
-  color: #000000;
-  font-family: "Yanone Kaffeesatz";
-  font-size: 32px;
-  line-height: 38px;
   text-align: center;
+  margin-right: 50%;
 }
 
-.yelp {
-  height: 81px;
-  width: 81px;
+.socialIcons {
+  margin-top: 23px;
 }
 
-.instagram {
-  height: 93px;
-  width: 102px;
-}
 
-.facebook {
-  height: 96px;
-  width: 93px;
-}
-
-.copyWright {
+.copyRight {
   text-align: center;
   font-family: "Yanone Kaffeesatz";
-  font-size: 20px;
+  font-size: 24px;
+  font-weight: 200;
+  margin-top: 20px;
+}
+
+span {
+  font-size: 30px;
 }
 
 

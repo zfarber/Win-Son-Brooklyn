@@ -5,14 +5,14 @@ import "./style.css";
 class About extends Component {
   render() {
     return (
-      <div>
+      <div >
         <img className="title" src="https://i.imgur.com/HNglClT.png" />
-        <div id="slider">
+        <a id="about"><div id="slider">
           <div
             id="carouselExampleControls"
             className="carousel slide"
             data-ride="carousel"
-            data-interval="3000"
+            data-interval="0"
             keyboard="true"
           >
             <div className="carousel-inner">
@@ -60,7 +60,7 @@ class About extends Component {
               <span className="sr-only">Next</span>
             </a>
           </div>
-        </div>
+        </div></a>
         <p className="text">
           Win son is a taiwanese-american restaurant located in east
           williamsburg, brooklyn. we're currently open for dinner and weekend

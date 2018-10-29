@@ -1,0 +1,33 @@
+
+.contactContainer {
+  margin-bottom: 5%;
+}
+
+
+.phone {
+  color: #000000;
+  font-family: "Yanone Kaffeesatz";
+  font-size: 36px;
+  font-weight: 200;
+  line-height: 42px;
+  text-align: center;
+}
+
+.email {
+  color: #000000;
+  font-family: "Yanone Kaffeesatz";
+  font-size: 36px;
+  font-weight: 200;
+  line-height: 42px;
+  text-align: center;
+}
+
+.address {
+  color: #000000;
+  font-family: "Yanone Kaffeesatz";
+  font-size: 36px;
+  font-weight: 200;
+  line-height: 42px;
+  text-align: center;
+  margin-bottom: 40px;
+}

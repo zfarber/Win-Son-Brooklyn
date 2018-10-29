@@ -8,8 +8,7 @@
     position: relative;
 }
 
-.arrow
-  {
+a > .arrow {
     position: absolute;
     top: 103%;
     left: 46.2%;
@@ -95,7 +94,7 @@
 }
 
 
-.arrow:hover
+a > .arrow:hover
 {
         -webkit-animation: swing .5s ease;
         animation: swing .5s ease;
