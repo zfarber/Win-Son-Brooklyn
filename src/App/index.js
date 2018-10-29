@@ -8,7 +8,6 @@ import Nav from '../Nav';
 import Menu from '../Menu';
 import Contact from '../Contact';
 import Footer from '../Footer';
-import Menu from '../Menu';
 import "./style.scss";
 
 class App extends Component {
