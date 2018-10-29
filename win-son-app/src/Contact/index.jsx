@@ -1,11 +1,12 @@
 import React, { Component } from "react";
+import GoogleMap from '../GoogleMap';
 import "./style.css";
 
 class Contact extends Component {
   render() {
     return (
-      <div className="contactContainer">
-        <a id="contact">
+      <div id="contact" className="contactContainer">
+        <a>
           <img className="title" src="https://i.imgur.com/9S3vpbe.png" />
         </a>
         <p className="phone">
@@ -18,6 +19,7 @@ class Contact extends Component {
         <p className="address">
           159 Graham Ave Brooklyn, NY
         </p>
+        <GoogleMap />
       </div>
     );
   }
