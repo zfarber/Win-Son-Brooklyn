@@ -4,9 +4,7 @@ import "./style.css";
 
 const GoogleMap = () => {
   return (
-    <div class="mapDiv">
-      <img src={winson} alt='map' width='100%' />
-    </div>
+      <img src={winson} alt='map' width='50%' class="map" />
   )
 }
 
