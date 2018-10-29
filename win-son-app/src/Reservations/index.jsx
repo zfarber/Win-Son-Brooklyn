@@ -5,8 +5,8 @@ import "./style.css";
 class Reservations extends Component {
   render() {
     return (
-      <div>
-        <a id="reservations">
+      <div id="reservations">
+        <a>
           <img className="title" src="https://i.imgur.com/9vWwfqb.png" />
         </a>
         <p className="text1">

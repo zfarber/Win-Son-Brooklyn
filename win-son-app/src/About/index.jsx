@@ -5,9 +5,9 @@ import "./style.css";
 class About extends Component {
   render() {
     return (
-      <div >
+      <div id="about">
         <img className="title" src="https://i.imgur.com/HNglClT.png" />
-        <a id="about"><div id="slider">
+        <a><div id="slider">
           <div
             id="carouselExampleControls"
             className="carousel slide"

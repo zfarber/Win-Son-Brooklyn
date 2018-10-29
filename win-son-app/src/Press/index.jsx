@@ -4,8 +4,8 @@ import "./style.css";
 class Press extends Component {
   render() {
     return (
-      <div>
-        <a id="press"><img className="title" src="https://i.imgur.com/Jd4OOLi.png" /></a>
+      <div id="press">
+        <a><img className="title" src="https://i.imgur.com/Jd4OOLi.png" /></a>
         <div className="press-container hover11">
           <div>
             <a
