@@ -7,7 +7,8 @@ import Reservations from '../Reservations';
 import Nav from '../Nav';
 import Contact from '../Contact';
 import Footer from '../Footer';
-import "./style.css";
+import Menu from '../Menu';
+import "./style.scss";
 
 class App extends Component {
   render() {
@@ -16,6 +17,7 @@ class App extends Component {
         <Nav />
         <HeaderPhoto />
         <About />
+        <Menu />
         <br/>
         <Reservations />
         <Press />

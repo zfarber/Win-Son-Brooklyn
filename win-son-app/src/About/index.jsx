@@ -67,8 +67,8 @@ class About extends Component {
           brunch.
         </p>
         <div className="social-links">
-          <img src="https://i.imgur.com/LNNlPGR.png" alt="" />
-          <img src="https://i.imgur.com/Npk8eja.png" alt="" />
+          <a href=""><img src="https://i.imgur.com/LNNlPGR.png" alt="" /></a>
+          <a href=""><img src="https://i.imgur.com/Npk8eja.png" alt="" /></a>
         </div>
       </div>
     );
