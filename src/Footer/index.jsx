@@ -12,13 +12,13 @@ class Footer extends Component {
           </div>
           <div className="socialIcons">
             <a href="https://www.yelp.com/biz/win-son-brooklyn-4">
-              <img src="https://i.imgur.com/fLTGhEk.png" />
+              <img src="https://i.imgur.com/fLTGhEk.png" alt="yelp" />
             </a>
             <a href="https://www.instagram.com/explore/locations/1020770799/win-son/?hl=en">
-              <img src="https://i.imgur.com/A8m2QhL.png" />
+              <img src="https://i.imgur.com/A8m2QhL.png" alt="instagram" />
             </a>
             <a href="https://www.facebook.com/pages/Win-Son/196863394276454">
-              <img src="https://i.imgur.com/t1J9Oxc.png" />
+              <img src="https://i.imgur.com/t1J9Oxc.png" alt="facebook" />
             </a>
           </div>
         </div>

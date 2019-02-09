@@ -44,15 +44,7 @@
   padding: 36px 6% 30px 6%;
 }
 
-.social-links {
-  margin: auto;
-  position:relative;
-  width: 50%;
-  height: 50%;
-  display: flex;
-  justify-content: center;
-}
-
 #about {
   padding-top: 20px;
+  height: 1020px;
 }

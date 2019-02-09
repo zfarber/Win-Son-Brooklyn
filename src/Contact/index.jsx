@@ -6,9 +6,7 @@ class Contact extends Component {
   render() {
     return (
       <div id="contact" className="contactContainer">
-        <a>
-          <img className="title" src="https://i.imgur.com/9S3vpbe.png" />
-        </a>
+        <img className="title" src="https://i.imgur.com/9S3vpbe.png" alt="contact heading" />
         <p className="phone">
           347 457 6010
         </p>

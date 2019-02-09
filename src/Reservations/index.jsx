@@ -6,9 +6,7 @@ class Reservations extends Component {
   render() {
     return (
       <div id="reservations">
-        <a>
-          <img className="title" src="https://i.imgur.com/9vWwfqb.png" />
-        </a>
+        <img className="title" src="https://i.imgur.com/9vWwfqb.png" alt="reservations heading" />
         <p className="text1">
           For parties of more than 5, you can reserve any time! Call us at 347
           457 6010 or email us at reservations@winsonbrooklyn.com

@@ -6,8 +6,8 @@ class About extends Component {
   render() {
     return (
       <div id="about">
-        <img className="title" src="https://i.imgur.com/HNglClT.png" />
-        <a><div id="slider">
+        <img className="title" src="https://i.imgur.com/HNglClT.png" alt="about heading" />
+        <div id="slider">
           <div
             id="carouselExampleControls"
             className="carousel slide"
@@ -60,16 +60,12 @@ class About extends Component {
               <span className="sr-only">Next</span>
             </a>
           </div>
-        </div></a>
+        </div>
         <p className="text">
           Win son is a taiwanese-american restaurant located in east
           williamsburg, brooklyn. we're currently open for dinner and weekend
           brunch.
         </p>
-        <div className="social-links">
-          <a href=""><img src="https://i.imgur.com/LNNlPGR.png" alt="" /></a>
-          <a href=""><img src="https://i.imgur.com/Npk8eja.png" alt="" /></a>
-        </div>
       </div>
     );
   }

@@ -9,7 +9,7 @@ class Nav extends Component {
         <nav className="navbar is-fixed-top">
           <div className="navbar-brand">
             <a href="#home">
-              <img id="winson-logo" src="https://i.imgur.com/xFKk3Cf.png" />
+              <img id="winson-logo" src="https://i.imgur.com/xFKk3Cf.png" alt="logo" />
             </a>
             <div
               className="navbar-burger burger"
